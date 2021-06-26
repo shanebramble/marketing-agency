@@ -1,1 +1,16 @@
 # Code Refactor Starter Code
+
+## Purpose
+A website that offers fitness training services.
+
+### Built With 
+* HTML
+* CSS
+
+## Website 
+https://shanebramble.github.io/marketing-agency
+
+## Contribution
+Made with ❤️ by Shane Bramble-Wade
+
+### ©️2021 Run Buddy, Inc 
